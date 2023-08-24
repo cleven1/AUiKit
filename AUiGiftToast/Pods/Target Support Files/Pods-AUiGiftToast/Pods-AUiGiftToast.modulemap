@@ -1,0 +1,6 @@
+module Pods_AUiGiftToast {
+  umbrella header "Pods-AUiGiftToast-umbrella.h"
+
+  export *
+  module * { export * }
+}
